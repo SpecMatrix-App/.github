@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/SpecMatrix-Banner-Logo" alt="SpecMatrix" width="500">
+  <img src="https://github.com/SpecMatrix-App/.github/blob/50906af9487ee5c79c8afd9411f8ef4501f0421b/assets/SpecMatrix-Banner-Logo.png" alt="SpecMatrix" width="500">
 </p>
 
 Open-source tool for system monitoring.
